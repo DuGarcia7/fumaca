@@ -1,0 +1,11 @@
+fieldset{
+    border-color: black;
+    border-radius: 10%;
+    background-color: white;
+}
+.cabecalho{
+    color: white;
+    background-color: rgb(49, 17, 39);
+    border-color: black;
+    border-radius: 5px;
+}
